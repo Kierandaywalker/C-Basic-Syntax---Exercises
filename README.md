@@ -3,9 +3,6 @@ Test
 TEST 1823781237812
 changed README.md from github
 Resolved.
-<<<<<<< HEAD
 github bla bla
-
-=======
 Created develop branch
->>>>>>> remotes/origin/develop
+remotes/origin/develop
