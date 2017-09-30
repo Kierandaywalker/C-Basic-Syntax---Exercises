@@ -1,2 +1,2 @@
 # C-Basic-Syntax---Exercises
-Test
+changed README.md from github
